@@ -5,4 +5,5 @@ Também são requeridas a implementação das seguintes funções:
 - Percorrimento pré-ordem.
 - Percorrimento em-ordem.
 - Percorrimento pós-ordem.
+
 Para mais informações veja o arquivo [Trabalho_1](https://github.com/fvvsantana/arvoreBinariaMips/blob/master/Trabalho_1.pdf).
